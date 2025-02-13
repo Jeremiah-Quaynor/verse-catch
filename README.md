@@ -5,7 +5,7 @@
 First, clone the repository:
 
 ```bash
-git clone https://--
+git clone https://github.com/Jeremiah-Quaynor/verse-catch.git
 ```
 
 Then, navigate to the client directory and install the dependencies:
